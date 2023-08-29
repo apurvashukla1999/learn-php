@@ -1,6 +1,12 @@
 <?php
 echo "Hello World";
 $name = "Sunny";
+
+$var_dump($name);
+$base = 20;
+$height = 40;
+$area = $base * $height;
+echo $area;
 $lastName = "Shukla";
 //var_dump($name); /* this shows the type of the variable
 //operators
