@@ -1,5 +1,5 @@
 <?php
 echo "Hello World";
 $name = "Sunny";
-$var_dump($name);
+var_dump($name);
 ?>
